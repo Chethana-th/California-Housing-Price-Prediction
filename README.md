@@ -5,6 +5,7 @@ This project explores various regression techniques to predict house prices usin
 ---
 #About this file
 #The dataset link https://www.kaggle.com/datasets/camnugent/california-housing-prices
+
 Columns
 1. longitude: A measure of how far west a house is; a higher value is farther west
 2. latitude: A measure of how far north a house is; a higher value is farther north
